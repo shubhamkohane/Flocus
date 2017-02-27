@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Nimani_bus_stop">
+        <item>Nimani bus stop__0</item>
+        <item>Seva Kunj__1</item>
+        <item>Panzara Pol__1</item>
+        <item>Raghuwanshi Building__2</item>
+        <item>Walmic Nagar/Maruti mandir__3</item>
+        <item>Old Adgaon Naka/BPHirawadi__3</item>
+        <item>Nasik D-Link Gate__4</item>
+        <item>Cross Road Dwarka__4</item>
+        <item>BP Manur/Adgoan Naka__6</item>
+        <item>Mahadev mandir/janardan Swami__7</item>
+        <item>Seva Housing Colony__8</item>
+        <item>Kailas Nagar 5/800__8</item>
+        <item>Nandur Chari No.4__9</item>
+        <item>Nimashe Farm 7/600__10</item>
+        <item>Nandur Naka__12</item>
+        <item>Nandur Village__13</item>
+        <item>Godavari New Bridge/ mahalakshmi__14</item>
+        <item>Dasak Village__15</item>
+        <item>BP  Citric/Panchal__16</item>
+        <item>Sadurg Karanja__16</item>
+        <item>Sant Dyaneshwar Nagar__17</item>
+        <item>Deshmukh Bhavan__18</item>
+        <item>Datta Mandir/Model Hos.Nagar__18</item>
+        <item>MSEB Stores,Shivaji Nagar__19</item>
+        <item>Ingale Nagar/Taki__20</item>
+        <item>BP Central Jail__20</item>
+        <item>New ONP gate__21</item>
+        <item>Catholic Church__22</item>
+        <item>BP P.C School__23</item>
+        <item>ISP Bus stop__24</item>
+        <item>Bytco point bus stop__25</item>
+        <item>Shivaji Co.Op,HSG,Society__27</item>
+        <item>Nasik road bus stop__28</item>
+    </string-array>
+    <string-array name="Nasik_road_bus_stop">
+        <item>Nasik road bus stop__0</item>
+        <item>Shivaji Co.Op,HSG,Society__1</item>
+        <item>Bytco point bus stop__3</item>
+        <item>ISP Bus stop__4</item>
+        <item>BP P.C School__5</item>
+        <item>Catholic Church__6</item>
+        <item>New ONP gate__7</item>
+        <item>BP Central Jail__8</item>
+        <item>Ingale Nagar/Taki__8</item>
+        <item>MSEB Stores,Shivaji Nagar__9</item>
+        <item>Datta Mandir/Model Hos.Nagar__10</item>
+        <item>Deshmukh Bhavan__10</item>
+        <item>Sant Dyaneshwar Nagar__11</item>
+        <item>Sadurg Karanja__12</item>
+        <item>BP  Citric/Panchal__12</item>
+        <item>Dasak Village__13</item>
+        <item>Godavari New Bridge/ mahalakshmi__14</item>
+        <item>Nandur Village__15</item>
+        <item>Nandur Naka__16</item>
+        <item>Nimashe Farm 7/600__18</item>
+        <item>Nandur Chari No.4__19</item>
+        <item>Kailas Nagar 5/800__20</item>
+        <item>Seva Housing Colony__20</item>
+        <item>Mahadev mandir/janardan Swami__21</item>
+        <item>BP Manur/Adgoan Naka__22</item>
+        <item>Cross Road Dwarka__24</item>
+        <item>Nasik D-Link Gate__24</item>
+        <item>Old Adgaon Naka/BPHirawadi__25</item>
+        <item>Walmic Nagar/Maruti mandir__25</item>
+        <item>Raghuwanshi Building__26</item>
+        <item>Panzara Pol__27</item>
+        <item>Seva Kunj__27</item>
+        <item>Nimani bus stop__28</item>
+    </string-array>
+    <string-array name="bus_array">
+        <item>Select Destination</item>
+        <item>Nimani bus stop</item>
+        <item>Seva Kunj</item>
+        <item>Panzara Pol</item>
+        <item>Raghuwanshi Building</item>
+        <item>Walmic Nagar/Maruti mandir</item>
+        <item>Old Adgaon Naka/BPHirawadi</item>
+        <item>Nasik D-Link Gate</item>
+        <item>Cross Road Dwarka</item>
+        <item>BP Manur/Adgoan Naka</item>
+        <item>Mahadev mandir/janardan Swami</item>
+        <item>Seva Housing Colony</item>
+        <item>Kailas Nagar 5/800</item>
+        <item>Nandur Chari No.4</item>
+        <item>Nimashe Farm 7/600</item>
+        <item>Nandur Naka</item>
+        <item>Nandur Village</item>
+        <item>Godavari New Bridge/ mahalakshmi</item>
+        <item>Dasak Village</item>
+        <item>BP  Citric/Panchal</item>
+        <item>Sadurg Karanja</item>
+        <item>Sant Dyaneshwar Nagar</item>
+        <item>Deshmukh Bhavan</item>
+        <item>Datta Mandir/Model Hos.Nagar</item>
+        <item>MSEB Stores,Shivaji Nagar</item>
+        <item>Ingale Nagar/Taki</item>
+        <item>BP Central Jail</item>
+        <item>New ONP gate</item>
+        <item>Catholic Church</item>
+        <item>BP P.C School</item>
+        <item>ISP Bus stop</item>
+        <item>Bytco point bus stop</item>
+        <item>Shivaji Co.Op,HSG,Society</item>
+        <item>Nasik road bus stop</item>
+    </string-array>
+</resources>

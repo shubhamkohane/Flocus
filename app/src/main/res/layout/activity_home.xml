@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+
+  <TableLayout
+      android:id="@+id/tableLayout1"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:background="#ffffff">
+
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+      <ImageView
+          android:src="@mipmap/bus"
+          android:layout_width="0dp"
+          android:layout_height="match_parent"
+          android:layout_weight="1"
+          />
+
+    </TableRow>
+
+    <TableLayout
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="8dp"
+        >
+
+      <!--  <Image
+            android:text="Track BUS"
+            android:id="@+id/button"
+            android:onClick="openNew"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            />
+
+        <Image
+            android:onClick="openNew1"
+
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Button"
+            android:onClick="openNew1"
+            android:id="@+id/imageButton2"
+            android:layout_column="7" />-->
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Track Buses"
+          android:id="@+id/button"
+          android:onClick="openNew"
+          android:layout_column="4"
+          android:background="#8ccae0"
+          android:paddingBottom="16dp"/>
+
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Bus Timing"
+          android:onClick="openNew1"
+          android:id="@+id/imageButton2"
+          android:layout_column="15"
+          android:background="#b4d3d5"
+          android:paddingBottom="8dp"/>
+
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Alert"
+          android:onClick="Alert"
+          android:id="@+id/button4"
+          android:layout_column="4"
+          android:background="#f8f9fb"
+          android:paddingBottom="8dp"/>
+
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="About"
+          android:id="@+id/button5"
+          android:layout_column="15"
+          android:background="#efb140"
+          android:paddingBottom="8dp"
+          android:onClick="textkaro"/>
+    </TableLayout>
+
+
+  </TableLayout>
+
+
+</RelativeLayout>

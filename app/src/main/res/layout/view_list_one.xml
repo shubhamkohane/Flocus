@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4f4f4"
+    android:orientation="vertical">
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listvone"
+        android:layout_weight="1"
+
+        android:divider="#d1d1d1">
+    </ListView>
+   <android.support.design.widget.FloatingActionButton
+        android:id="@+id/buttonz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@mipmap/unnamed"
+        android:layout_alignParentBottom="true"
+        android:onClick="myClickz"
+       android:layout_marginRight="0dp"
+       android:layout_marginBottom="0dp"
+       android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

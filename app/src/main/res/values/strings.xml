@@ -1,0 +1,294 @@
+<resources>
+    <string name="gcm_defaultSenderId">175643285</string>
+    <string name="app_name">Flocus</string>
+    <string name="action_settings">Settings</string>
+    <string name="business_prompt">Choose a destination</string>
+    <string name="country_prompt">Choose a source</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="country_arraysa">
+        <item>Select Source</item>
+        <item>Nimani bus stop</item>
+        <item>Seva Kunj</item>
+        <item>Panzara Pol</item>
+        <item>Raghuwanshi Building</item>
+        <item>Walmic Nagar/Maruti mandir</item>
+        <item>Old Adgaon Naka/BPHirawadi</item>
+        <item>Nasik D-Link Gate</item>
+        <item>Cross Road Dwarka</item>
+        <item>BP Manur/Adgoan Naka</item>
+        <item>Mahadev mandir/janardan Swami</item>
+        <item>Seva Housing Colony</item>
+        <item>Kailas Nagar 5/800</item>
+        <item>Nandur Chari No.4</item>
+        <item>Nimashe Farm 7/600</item>
+        <item>Nandur Naka</item>
+        <item>Nandur Village</item>
+        <item>Godavari New Bridge/ mahalakshmi</item>
+        <item>Dasak Village</item>
+        <item>BP  Citric/Panchal</item>
+        <item>Sadurg Karanja</item>
+        <item>Sant Dyaneshwar Nagar</item>
+        <item>Deshmukh Bhavan</item>
+        <item>Datta Mandir/Model Hos.Nagar</item>
+        <item>MSEB Stores,Shivaji Nagar</item>
+        <item>Ingale Nagar/Taki</item>
+        <item>BP Central Jail</item>
+        <item>New ONP gate</item>
+        <item>Catholic Church</item>
+        <item>BP P.C School</item>
+        <item>ISP Bus stop</item>
+        <item>Bytco point bus stop</item>
+        <item>Shivaji Co.Op,HSG,Society</item>
+        <item>Nasik road bus stop</item>
+    </string-array>
+    <string-array name="country_arraysb">
+        <item>Select Destination</item>
+        <item>Nimani bus stop</item>
+        <item>Seva Kunj</item>
+        <item>Panzara Pol</item>
+        <item>Raghuwanshi Building</item>
+        <item>Walmic Nagar/Maruti mandir</item>
+        <item>Old Adgaon Naka/BPHirawadi</item>
+        <item>Nasik D-Link Gate</item>
+        <item>Cross Road Dwarka</item>
+        <item>BP Manur/Adgoan Naka</item>
+        <item>Mahadev mandir/janardan Swami</item>
+        <item>Seva Housing Colony</item>
+        <item>Kailas Nagar 5/800</item>
+        <item>Nandur Chari No.4</item>
+        <item>Nimashe Farm 7/600</item>
+        <item>Nandur Naka</item>
+        <item>Nandur Village</item>
+        <item>Godavari New Bridge/ mahalakshmi</item>
+        <item>Dasak Village</item>
+        <item>BP  Citric/Panchal</item>
+        <item>Sadurg Karanja</item>
+        <item>Sant Dyaneshwar Nagar</item>
+        <item>Deshmukh Bhavan</item>
+        <item>Datta Mandir/Model Hos.Nagar</item>
+        <item>MSEB Stores,Shivaji Nagar</item>
+        <item>Ingale Nagar/Taki</item>
+        <item>BP Central Jail</item>
+        <item>New ONP gate</item>
+        <item>Catholic Church</item>
+        <item>BP P.C School</item>
+        <item>ISP Bus stop</item>
+        <item>Bytco point bus stop</item>
+        <item>Shivaji Co.Op,HSG,Society</item>
+        <item>Nasik road bus stop</item>
+    </string-array>
+    <string-array name="mazor_stops">
+        <item>Select Bus Station</item>
+        <item>Nimani bus stop</item>
+        <item>Nasik road bus stop</item>
+    </string-array>
+    <string-array name="busno">
+        <item>Select Bus No.</item>
+        <item>8098</item>
+        <item>8040</item>
+
+
+    </string-array>
+    <string-array name="list_items">
+        <item>8040__via Jail Road__04:55</item>
+        <item>8040__via Jail Road__06:15</item>
+        <item>8098__via Jail Road__07:00</item>
+        <item>8040__via Jail Road__07:30</item>
+        <item>8098__via Jail Road__08:20</item>
+        <item>8040__via Jail Road__08:59</item>
+        <item>8098__via Jail Road__09:40</item>
+        <item>8040__via Jail Road__10:14</item>
+        <item>8098__via Jail Road__11:00</item>
+        <item>8098__via Jail Road__12:20</item>
+        <item>8098__via Jail Road__14:20</item>
+        <item>8098__via Jail Road__15:40</item>
+        <item>8098__via Jail Road__17:00</item>
+        <item>8098__via Jail Road__18:30</item>
+        <item>8098__via Jail Road__20:05</item>
+
+
+
+    </string-array>
+
+    <string-array name="list_itom">
+        <item>8040__via Jail Road__05:35</item>
+        <item>8098__via Jail Road__06:20</item>
+        <item>8040__via Jail Road__06:55</item>
+        <item>8098__via Jail Road__07:40</item>
+        <item>8040__via Jail Road__08:15</item>
+        <item>8098__via Jail Road__09:00</item>
+        <item>8040__via Jail Road__09:30</item>
+        <item>8098__via Jail Road__10:15</item>
+        <item>8098__via Jail Road__11:40</item>
+        <item>8098__via Jail Road__13:00</item>
+        <item>8098__via Jail Road__16:20</item>
+        <item>8098__via Jail Road__17:40</item>
+        <item>8098__via Jail Road__19:00</item>
+        <item>8098__via Jail Road__20:45</item>
+
+    </string-array>
+
+    <string-array name="country_arrays_u">
+        <item>Nasik road bus stop__tt1__19.948108__73.841472</item>
+        <item>Shivaji Co.Op,HSG,Society__tt2__19.95134442__73.84045717</item>
+        <item>Bytco point bus stopPanzara Pol__tt3__19.955191__73.837902</item>
+        <item>ISP Bus stop__tt4__19.95826929__73.83844856</item>
+        <item>BP P.C School__tt5__19.95987529__73.83877291</item>
+        <item>Catholic Church__tt6__19.9631967__73.83901328</item>
+        <item>New ONP gate__tt7__19.965499__73.83928454</item>
+        <item>BP Central Jail__tt8__19.96977049__73.84014258</item>
+        <item>Ingale Nagar/Taki__tt9__19.97005443__73.83997679</item>
+        <item>MSEB Stores,Shivaji Nagar__tt10__19.974265__73.840866</item>
+        <item>Datta Mandir/Model Hos.Nagar__tt11__19.975913__73.841501</item>
+        <item>Deshmukh Bhavan__tt12__19.97823858__73.84215023</item>
+        <item>Sant Dyaneshwar Nagar__tt13__19.98096327__73.84398215</item>
+        <item>Sadurg Karanja__tt14__19.982896__73.844505</item>
+        <item>BP  Citric/Panchal__tt15__19.983476__73.844775</item>
+        <item>Dasak Village__tt16__19.985904__73.844915</item>
+        <item>Godavari New Bridge/ mahalakshmi__tt17__19.987519__73.845453</item>
+        <item>Nandur Village__tt18__19.99238367__73.84422861</item>
+        <item>Nandur Naka__tt19__19.99629413__73.84376668</item>
+        <item>Nimashe Farm 7/600__tt20__19.9990098__73.8367553</item>
+        <item>Nandur Chari No.4__tt21__20.00221215__73.83149966</item>
+        <item>Kailas Nagar 5/800__tt22__20.00451587__73.82649793</item>
+        <item>Seva Housing Colony__tt23__20.00577632__73.82354592</item>
+        <item>Mahadev mandir/janardan Swami__tt24__20.00829127__73.8162861</item>
+        <item>BP Manur/Adgoan Naka__tt25__20.010378__73.81113</item>
+        <item>Cross Road Dwarka__tt26__20.00918672__73.80668126</item>
+        <item>Nasik D-Link Gate__tt27__20.00923632__73.80558551</item>
+        <item>Old Adgaon Naka/BPHirawadi__tt28__20.00863258__73.80222932</item>
+        <item>Walmic Nagar/Maruti mandir__tt29__20.00875035__73.80109223</item>
+        <item>Raghuwanshi Building__tt30__20.00944412__73.79922054</item>
+        <item>Panzara Pol__tt31__20.00989033__73.79851644</item>
+        <item>Seva Kunj__tt32__20.01016517__73.79838553</item>
+        <item>Nimani bus stop__tt33__20.0118__73.796873</item>
+    </string-array>
+
+    <string-array name="country_arrays_i">
+        <item>Nimani bus stop__t1__20.0118__73.796873</item>
+        <item>Seva Kunj__t2__20.01016517__73.79838553</item>
+        <item>Panzara Pol__t3__20.00989033__73.79851644</item>
+        <item>Raghuwanshi Building__t4__20.00944412__73.79922054</item>
+        <item>Walmic Nagar/Maruti mandir__t5__20.00875035__73.80109223</item>
+        <item>Old Adgaon Naka/BPHirawadi__t6__20.00863258__73.80222932</item>
+        <item>Nasik D-Link Gate__t7__20.00923632__73.80558551</item>
+        <item>Cross Road Dwarka__t8__20.00918672__73.80668126</item>
+        <item>BP Manur/Adgoan Naka__t9__20.010378__73.81113</item>
+        <item>Mahadev mandir/janardan Swami__t10__20.00829127__73.8162861</item>
+        <item>Seva Housing Colony__t11__20.00577632__73.82354592</item>
+        <item>Kailas Nagar 5/800__t12__20.00451587__73.82649793</item>
+        <item>Nandur Chari No.4__t13__20.00221215__73.83149966</item>
+        <item>Nimashe Farm 7/600__t14__19.9990098__73.8367553</item>
+        <item>Nandur Naka__t15__19.99629413__73.84376668</item>
+        <item>Nandur Village__t16__19.99238367__73.84422861</item>
+        <item>Godavari New Bridge/ mahalakshmi__t17__19.987519__73.845453</item>
+        <item>Dasak Village__t18__19.985904__73.844915</item>
+        <item>BP  Citric/Panchal__t19__19.983476__73.844775</item>
+        <item>Sadurg Karanja__t20__19.982896__73.844505</item>
+        <item>Sant Dyaneshwar Nagar__t21__19.98096327__73.84398215</item>
+        <item>Deshmukh Bhavan__t22__19.97823858__73.84215023</item>
+        <item>Datta Mandir/Model Hos.Nagar__t23__19.975913__73.841501</item>
+        <item>MSEB Stores,Shivaji Nagar__t24__19.974265__73.840866</item>
+        <item>Ingale Nagar/Taki__t25__19.97005443__73.83997679</item>
+        <item>BP Central Jail__t26__19.96977049__73.84014258</item>
+        <item>New ONP gate__t27__19.965499__73.83928454</item>
+        <item>Catholic Church__t28__19.9631967__73.83901328</item>
+        <item>BP P.C School__t29__19.95987529__73.83877291</item>
+        <item>ISP Bus stop__t30__19.95826929__73.83844856</item>
+        <item>Bytco point bus stop__t31__19.955191__73.837902</item>
+        <item>Shivaji Co.Op,HSG,Society__t32__19.95134442__73.84045717</item>
+        <item>Nasik road bus stop__t33__19.948108__73.841472</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_data">Data</string>
+    <string name="title_activity_settings">Settings</string>
+    <string-array name="secondbus">
+        <item>8040__04:55 am__Nimani</item>
+        <item>8040__05:35 am__Nasik Road</item>
+        <item>8040__06:15 am__Nimani</item>
+        <item>8040__06:55 am__Nasik Road</item>
+        <item>8040__07:30 am__Nimani</item>
+        <item>8040__08:15 am__Nasik Road</item>
+        <item>8040__09:00 am__Nimani</item>
+        <item>8040__09:30 am__Nasik Road</item>
+        <item>8040__10:15 am__Nimani</item>
+
+    </string-array>
+    <string-array name="firstbus">
+        <item>8098__06:20 am__Nasik Road</item>
+        <item>8098__07:00 am__Nimani</item>
+        <item>8098__07:40 am__Nasik Road</item>
+        <item>8098__08:20 am__Nimani</item>
+        <item>8098__09:00 am__Nasik Road</item>
+        <item>8098__09:40 am__Nimani</item>
+        <item>8098__10:15 am__Nasik Road</item>
+        <item>8098__11:00 am__Nimani</item>
+        <item>8098__11:40 pm__Nasik Road</item>
+        <item>8098__12:20 pm__Nimani</item>
+        <item>8098__11:40 pm__Nasik Road</item>
+        <item>8098__12:20 pm__Nimani</item>
+        <item>8098__13:00 pm__Nasik Road</item>
+        <item>8098__14:20 pm__Nimani</item>
+        <item>8098__15:00 pm__Nasik Road</item>
+        <item>8098__15:40 pm__Nimani</item>
+        <item>8098__16:20 pm__Nasik Road</item>
+        <item>8098__17:00 pm__Nimani</item>
+        <item>8098__17:40 pm__Nasik Road</item>
+        <item>8098__18:30 pm__Nimani</item>
+        <item>8098__19:00 pm__Nasik Road</item>
+        <item>8098__20:05 pm__Nimani</item>
+        <item>8098__20:40 pm__Nasik Road</item>
+
+
+    </string-array>
+    <string-array name="firstsecondbus">
+        <item>8040__via Jail Road__04:55</item>
+        <item>8040__via Jail Road__05:35</item>
+        <item>8040__via Jail Road__06:15</item>
+        <item>8040__via Jail Road__06:55</item>
+        <item>8040__via Jail Road__07:30</item>
+        <item>8040__via Jail Road__08:15</item>
+        <item>8040__via Jail Road__09:00</item>
+        <item>8040__via Jail Road__09:30</item>
+        <item>8040__via Jail Road__10:15</item>
+    </string-array>
+    <string-array name="secondsecondbus">
+    </string-array>
+    <string-array name="firststation">
+        <item>8040__via Jail Road__04:55</item>
+        <item>8040__via Jail Road__06:15</item>
+        <item>8098__via Jail Road__07:00</item>
+        <item>8040__via Jail Road__07:30</item>
+        <item>8098__via Jail Road__08:20</item>
+        <item>8040__via Jail Road__09:00</item>
+        <item>8098__via Jail Road__09:40</item>
+        <item>8040__via Jail Road__10:15</item>
+        <item>8098__via Jail Road__11:00</item>
+        <item>8098__via Jail Road__12:20</item>
+        <item>8098__via Jail Road__14:20</item>
+        <item>8098__via Jail Road__15:40</item>
+        <item>8098__via Jail Road__18:30</item>
+        <item>8098__via Jail Road__20:05</item>
+
+
+    </string-array>
+    <string-array name="secondstation">
+        <item>8040__via Jail Road__05:35</item>
+        <item>8098__via Jail Road__06:20</item>
+        <item>8040__via Jail Road__06:55</item>
+        <item>8098__via Jail Road__07:40</item>
+        <item>8040__via Jail Road__08:15</item>
+        <item>8098__via Jail Road__09:00</item>
+        <item>8040__via Jail Road__09:30</item>
+        <item>8098__via Jail Road__10:15</item>
+        <item>8098__via Jail Road__11:40</item>
+        <item>8098__via Jail Road__13:00</item>
+        <item>8098__via Jail Road__15:25</item>
+        <item>8098__via Jail Road__16:20</item>
+        <item>8098__via Jail Road__17:40</item>
+        <item>8098__via Jail Road__19:00</item>
+        <item>8098__via Jail Road__20:45</item>
+       
+
+    </string-array>
+</resources>

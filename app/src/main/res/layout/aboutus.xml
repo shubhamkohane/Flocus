@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c4d3c8"
+     >
+
+    <!--
+         The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc.
+    -->
+
+    <!--
+         This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows.
+    -->
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true" >
+
+
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="?buttonBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent" >
+
+
+        </LinearLayout>
+
+       
+
+        <TextView
+            android:id="@+id/fullscreen_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:keepScreenOn="true"
+            android:text="Flocus"
+            android:textColor="#ffffff"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\nContact Us:- 				            \n7276827094                                    \n9872717331"
+            android:layout_gravity="left|bottom"
+            android:textSize="20dp"
+            android:id="@+id/textView11"
+            android:layout_alignBottom="@+id/textView1"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Flocus beta Version"
+            android:id="@+id/textView9"
+            android:layout_gravity="right|bottom" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="427dp"
+            android:text="Flocus is the team trying to enhance lives with effective digitalised solution for making the nashik city more smarter with real-time tracking and smart alert system.\n\nIn Collaboration with MSRTC,Nashik.\n\nCurrently the pilote route is Nimani to Nashik road via nandur."
+
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#000000"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/fullscreen_content" /><![CDATA[
+
+
+
+        "
+            android:id="@+id/textView9"
+            android:layout_gravity="left|bottom" />
+
+
+    ]]>
+
+    </RelativeLayout>
+</ScrollView>
+</LinearLayout>
